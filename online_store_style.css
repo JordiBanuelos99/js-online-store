@@ -1,0 +1,8 @@
+.Receipt_Header{
+    height:3px;
+    background-color:black;
+    width: 15rem;
+}
+body{
+    align-items: center;
+}
